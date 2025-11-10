@@ -1,0 +1,11 @@
+[33mcommit ddb510256381d398fd5b11acfd18fc61d799db5d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Liza <elizavetagvozdeva08@gmail.com>
+Date:   Mon Nov 10 13:11:10 2025 +0200
+
+    add file README.md
+
+[33mcommit 2f4e1d251d4cb039d50baebf8320008e1c0b1864[m
+Author: Liza <elizavetagvozdeva08@gmail.com>
+Date:   Sun Nov 9 22:30:07 2025 +0200
+
+    Add base structure for site
